@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.motionlaboratory.tododiet.AddExerciseActivity">
+
+    <Spinner
+        android:id="@+id/sp_exercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Spinner>
+
+  <EditText
+      android:id="@+id/et_date_exercise"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Date"
+      android:layout_marginTop="10dp"
+      android:textAlignment="center"
+      android:onClick="datePicker"
+      />
+
+    <EditText
+        android:id="@+id/et_date_repetition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Repetition in minutes"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:inputType="number"
+        />
+
+    <Button
+        android:id="@+id/btn_add_exercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorButton"
+        android:textColor="@color/colorWhite"
+        />
+
+</LinearLayout>

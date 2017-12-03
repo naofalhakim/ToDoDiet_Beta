@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.motionlaboratory.tododiet.AddFoodActivity">
+
+
+    <EditText
+        android:id="@+id/et_name_fooctrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Name"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/txt_date_food"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Date"
+        android:paddingBottom="16dp"
+        android:paddingTop="16dp"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/et_desc_food"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Description"
+        android:inputType="textMultiLine"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/btn_add_foodctrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorButton"
+        android:text="Done"
+        android:textColor="@color/colorWhite" />
+
+</LinearLayout>

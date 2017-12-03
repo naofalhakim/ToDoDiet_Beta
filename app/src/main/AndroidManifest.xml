@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.motionlaboratory.tododiet">
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".PatientActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Model.ProfilePatientActivity" />
+        <activity
+            android:name=".DoctorRegisterActivity"
+            android:label="Register" />
+        <activity
+            android:name=".AddPatientActivity"
+            android:label="Register" />
+        <activity
+            android:name=".DetailPatientActivity"
+            android:label="Detail Patient" />
+        <activity
+            android:name=".StatisticActivity"
+            android:label="Statistic" />
+        <activity android:name=".Challange" />
+        <activity
+            android:name=".BCAActivity"
+            android:label="BCA"/>
+        <activity
+            android:name=".FoodControlActivity"
+            android:label="Food Control" />
+        <activity
+            android:name=".ExerciseActivity"
+            android:label="Exercise" />
+        <activity
+            android:name=".AddExerciseActivity"
+            android:label="Add Exercise" />
+        <activity android:name=".BadgeActivity" />
+        <activity android:name=".QuotesActivity" />
+        <activity android:name=".AddFoodActivity" />
+        <activity android:name=".AddBCAActivity" />
+        <activity android:name=".DetailBCAActivity" />
+        <activity android:name=".TaskListActivity"></activity>
+    </application>
+
+</manifest>

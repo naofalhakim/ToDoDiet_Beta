@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.motionlaboratory.tododiet.DetailBCAActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_serial_number"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_date_bca"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BCA Weight"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_bca_weight"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fat Percent"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_fat_percent"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fat Mass"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/fat_mass"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FFM"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_ffm"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Muscle Mass"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_muscle_mass"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TBW"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_tbw"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TBW Percent"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_tbw_percent"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bone Mass"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_bone_mass"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BMR"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_bmr"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Metabolic Age"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_metabolic_age"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Visceral Fat Rating"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_visceral_fat_rating"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BCA BMI"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_bca_bmi"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ideal Body Weight"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_ideal_body_weight"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="degree of obesity percent"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_degree_of_obesity_percent"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fat Bottom Range Percent"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_fat_bot_range_percent"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fat Top Range Percent"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_fat_top_range_percent"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fat Mass Bottom Range Percent"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_fat_mass_bot_range_percent"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fat Mass Top Range Percent"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serial Number"
+            android:id="@+id/txt_fat_mass_top_range_percent"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
