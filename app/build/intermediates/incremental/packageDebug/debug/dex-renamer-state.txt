@@ -1,0 +1,4 @@
+#Fri Dec 08 14:20:49 ICT 2017
+base.0=D\:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37
+path.0=classes.dex
+renamed.0=classes.dex

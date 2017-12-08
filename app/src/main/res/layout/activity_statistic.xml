@@ -3,108 +3,97 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/colorWhite"
     android:layout_margin="16dp"
     android:layout_marginTop="8dp"
+    android:background="@color/colorWhite"
     android:paddingBottom="24dp"
     android:paddingLeft="8dp"
-    android:paddingTop="8dp"
     android:paddingRight="8dp"
+    android:paddingTop="8dp"
     android:orientation="vertical"
     tools:context="com.motionlaboratory.tododiet.StatisticActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
         android:layout_marginTop="10dp"
-        >
+        android:orientation="vertical">
 
         <TextView
             style="@style/Base.TextAppearance.AppCompat.Small"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Level" />
+            android:text="@string/level" />
 
         <TextView
             android:id="@+id/txt_level"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Level"
-            style="@style/Base.TextAppearance.AppCompat.Subhead"
-            />
+            android:text="@string/level" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
         android:layout_marginTop="10dp"
-        >
+        android:orientation="vertical">
 
         <TextView
+            style="@style/Base.TextAppearance.AppCompat.Small"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Gold"
-            style="@style/Base.TextAppearance.AppCompat.Small"
-            />
+            android:text="@string/gold" />
 
         <TextView
             android:id="@+id/txt_gold"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Gold"
-            style="@style/Base.TextAppearance.AppCompat.Subhead"
-            />
+            android:text="@string/gold" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
         android:layout_marginTop="10dp"
-        >
+        android:orientation="vertical">
 
         <TextView
+            style="@style/Base.TextAppearance.AppCompat.Small"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Weight"
-            style="@style/Base.TextAppearance.AppCompat.Small"
-            />
+            android:text="@string/weight" />
 
         <TextView
             android:id="@+id/txt_weight"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Weight"
-            style="@style/Base.TextAppearance.AppCompat.Subhead"
-            />
+            android:text="@string/weight" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
         android:layout_marginTop="10dp"
-        >
+        android:orientation="vertical">
 
         <TextView
+            style="@style/Base.TextAppearance.AppCompat.Small"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Height"
-            style="@style/Base.TextAppearance.AppCompat.Small"
-            />
+            android:text="@string/height" />
 
         <TextView
             android:id="@+id/txt_height"
+            style="@style/Base.TextAppearance.AppCompat.Subhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Height"
-            style="@style/Base.TextAppearance.AppCompat.Subhead"
-            />
+            android:text="@string/height" />
 
     </LinearLayout>
 

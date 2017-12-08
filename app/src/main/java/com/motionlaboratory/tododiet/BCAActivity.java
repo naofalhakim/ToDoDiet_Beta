@@ -73,10 +73,6 @@ public class BCAActivity extends AppCompatActivity implements View.OnClickListen
                             JSONArray jsonArray = jsonObject.getJSONArray("bca");
                             for (int i = 0; i <jsonArray.length() ; i++) {
                                 JSONObject jsonObject1 = jsonArray.getJSONObject(i);
-//                                bcaList.add(new BCA(
-//                                        String.valueOf(jsonObject1.getInt("serial_number")),
-//                                        jsonObject1.getString("date")
-//                                ));
                                 bcaList.add(new BCA(
                                 jsonObject1.getString("date"),
                                         String.valueOf(jsonObject1.getInt("serial_number")),
@@ -102,7 +98,7 @@ public class BCAActivity extends AppCompatActivity implements View.OnClickListen
                             }
                             adapter = new AdapterBCA(bcaList,BCAActivity.this);
                             recyclerView.setAdapter(adapter);
-                            Toast.makeText(BCAActivity.this,response,Toast.LENGTH_LONG).show();
+                            Toast.makeText(BCAActivity.this,"BCA Data Loaded",Toast.LENGTH_LONG).show();
                         } catch (JSONException e) {
                             e.printStackTrace();
                         }

@@ -94,7 +94,7 @@ public class AddBCAActivity extends AppCompatActivity implements View.OnClickLis
 
     @Override
     public void onClick(View v) {
-            if(btn_add == v) {
+        if(btn_add == v) {
 
             final String id = sessionPatient.getPatientId().get(sessionPatient.KEY_ID);
 

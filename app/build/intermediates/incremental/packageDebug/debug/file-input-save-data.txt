@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Dec 04 14:29:05 ICT 2017
+0.baseType=DIRECTORY
+0.base=D\:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,7 @@
+#Tue Nov 21 23:16:55 ICT 2017
+base.0=D\:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_35fe6ece5695bf0dbb6f67496c1a6e19a3784635
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d137d03486428f825d5a63269d64718c33f61126\\classes.dex
+base.1=D\:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d137d03486428f825d5a63269d64718c33f61126
+file.0=D\:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_35fe6ece5695bf0dbb6f67496c1a6e19a3784635\\classes.dex

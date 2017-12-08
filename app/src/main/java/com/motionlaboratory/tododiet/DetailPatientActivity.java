@@ -1,5 +1,6 @@
 package com.motionlaboratory.tododiet;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -31,6 +32,7 @@ public class DetailPatientActivity extends AppCompatActivity implements View.OnC
     private LinearLayout l_sta, l_badges, l_quotes, l_bca, l_task, l_task_result;
     private Patient patient;
     private SessionPatient sessionPatient;
+    private ProgressDialog progressDialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +47,8 @@ public class DetailPatientActivity extends AppCompatActivity implements View.OnC
         txt_gender = (TextView) findViewById(R.id.txt_gender);
         txt_location = (TextView) findViewById(R.id.txt_location);
         txt_phone = (TextView) findViewById(R.id.txt_phone);
+
+        progressDialog = new ProgressDialog(this);
 
         l_badges = (LinearLayout) findViewById(R.id.l_badge);
         l_bca = (LinearLayout) findViewById(R.id.l_bca);
@@ -74,7 +78,8 @@ public class DetailPatientActivity extends AppCompatActivity implements View.OnC
     }
 
     private void getDetailPatient(final String id) {
-
+        progressDialog.setMessage("Loading Patient Detail");
+        progressDialog.show();
         StringRequest stringRequest = new StringRequest(Request.Method.POST, ConnectionDb.SHOW_PATIENT_DETAIL,
                 new Response.Listener<String>() {
                     @Override
@@ -88,6 +93,7 @@ public class DetailPatientActivity extends AppCompatActivity implements View.OnC
                             JSONObject jsonObject1 = jsonArray.getJSONObject(0);
                             JSONObject jsonObject2 = jsonArray2.getJSONObject(0);
 
+                            progressDialog.dismiss();
 
                             txt_fullname.setText(jsonObject1.getString("full_name"));
                             txt_username.setText(jsonObject2.getString("username"));

@@ -73,6 +73,7 @@ public class AddExerciseActivity extends AppCompatActivity implements View.OnCli
     private void insertExercise(final String id) {
         progressDialog.setMessage("Creating Exercise");
         progressDialog.show();
+
         StringRequest stringRequest = new StringRequest(Request.Method.POST, ConnectionDb.INSERT_EXERCISE,
                 new Response.Listener<String>() {
                     @Override
@@ -123,8 +124,8 @@ public class AddExerciseActivity extends AppCompatActivity implements View.OnCli
         @Override
         public Dialog onCreateDialog(Bundle savedInstanceState) {
             final Calendar c = Calendar.getInstance();
-            int tanggal = c.get(Calendar.DAY_OF_MONTH);
-            int bulan = c.get(Calendar.MONTH);
+            int tanggal = c.get(Calendar.DATE);
+            int bulan = c.get(Calendar.DAY_OF_MONTH);
             int tahun = c.get(Calendar.YEAR);
 
             return new DatePickerDialog(

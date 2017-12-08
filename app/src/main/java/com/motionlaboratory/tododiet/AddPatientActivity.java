@@ -92,9 +92,10 @@ public class AddPatientActivity extends AppCompatActivity implements View.OnClic
                         progressDialog.dismiss();
                         try {
                             JSONObject jsonObject = new JSONObject(response);
-                            Toast.makeText(getApplicationContext(),jsonObject.getString("message"),Toast.LENGTH_LONG).show();
                             finish();
+                            Toast.makeText(getApplicationContext(),jsonObject.getString("message"),Toast.LENGTH_LONG).show();
                             startActivity(new Intent(AddPatientActivity.this,PatientActivity.class));
+                            finish();
                         }catch (JSONException e){
                             e.printStackTrace();
                         }

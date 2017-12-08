@@ -1,5 +1,6 @@
 package com.motionlaboratory.tododiet;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -36,6 +37,7 @@ public class ExerciseActivity extends AppCompatActivity implements View.OnClickL
     private List<Task> taskList;
     private Button btn_add;
     private SessionPatient sessionPatient;
+    private ProgressDialog progressDialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,6 +46,9 @@ public class ExerciseActivity extends AppCompatActivity implements View.OnClickL
 
         sessionPatient = new SessionPatient(this);
         HashMap<String,String> hashMap = sessionPatient.getPatientId();
+
+        progressDialog = new ProgressDialog(this);
+        progressDialog.setMessage("Load Data Exercise");
 
         btn_add = (Button) findViewById(R.id.btn_tambah_exercise);
         btn_add.setOnClickListener(this);
@@ -56,6 +61,7 @@ public class ExerciseActivity extends AppCompatActivity implements View.OnClickL
     }
 
     private void loadDataExercise(final String id) {
+        progressDialog.show();
         StringRequest stringRequest =  new StringRequest(Request.Method.POST, ConnectionDb.SHOW_PATIENT_EXERCISE,
                 new Response.Listener<String>() {
                     @Override
@@ -75,6 +81,7 @@ public class ExerciseActivity extends AppCompatActivity implements View.OnClickL
                                 );
                                 taskList.add(task);
                             }
+                            progressDialog.dismiss();
                             adapter = new AdapterExercise(taskList,ExerciseActivity.this);
                             recyclerView.setAdapter(adapter);
 

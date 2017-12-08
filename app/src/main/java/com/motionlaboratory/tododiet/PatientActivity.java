@@ -35,7 +35,7 @@ public class PatientActivity extends AppCompatActivity implements View.OnClickLi
     private RecyclerView recyclerView;
     private RecyclerView.Adapter adapter;
     private List<Patient> patientList;
-    private Button btn_add;
+    private Button btn_add, btn_logout;
     SessionManager sessionManager;
     private ProgressDialog progressDialog;
 
@@ -52,7 +52,9 @@ public class PatientActivity extends AppCompatActivity implements View.OnClickLi
         progressDialog = new ProgressDialog(this);
 
         btn_add = (Button) findViewById(R.id.btn_tambah_patient);
+        btn_logout = (Button) findViewById(R.id.btn_logout);
         btn_add.setOnClickListener(this);
+        btn_logout.setOnClickListener(this);
 
         recyclerView = (RecyclerView) findViewById(R.id.rec_patient);
         recyclerView.setHasFixedSize(true);
@@ -116,6 +118,11 @@ public class PatientActivity extends AppCompatActivity implements View.OnClickLi
     public void onClick(View v) {
         if(v==btn_add){
             startActivity(new Intent(PatientActivity.this,AddPatientActivity.class));
+        }else if(v==btn_logout){
+            sessionManager.logoutUser();
+            finish();
+            startActivity(new Intent(PatientActivity.this,LoginActivity.class));
         }
     }
 }
+

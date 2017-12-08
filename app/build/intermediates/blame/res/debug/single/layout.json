@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_patient.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_detail_patient.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_exercise.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_add_exercise.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_task_list.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\list_item_task_list.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_register.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_doctor_register.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_status_challeng.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\list_item_status_challeng.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_badge.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\list_item_badge.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_challange.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\fragment_challange.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_bca.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\list_item_bca.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_control.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_food_control.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_patient.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\list_item_patient.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quotes.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_quotes.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_patient.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_add_patient.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_quote.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\list_item_quote.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_statistic.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_statistic.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile_patient.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_profile_patient.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_exe.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\list_item_exe.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_add_food.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\alert_add_food.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_bca.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_detail_bca.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_badge.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_badge.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bca.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_bca.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exercise.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_exercise.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_temp.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\list_item_temp.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_list.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_task_list.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_patient.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_patient.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\603a300bed1245f61c9a9348aa44b22b5e2ff55e\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_bca.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_add_bca.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_food.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_add_food.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_daily_chall.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_daily_chall.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\naofal\\.android\\build-cache\\5d7bf56f564a9f38227f7cb63fcb7a938f923307\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Karir\\KompetisiUmumKuliah\\ToDoDiet\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]

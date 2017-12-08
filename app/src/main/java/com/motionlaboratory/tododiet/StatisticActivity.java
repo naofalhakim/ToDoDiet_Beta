@@ -1,5 +1,6 @@
 package com.motionlaboratory.tododiet;
 
+import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
@@ -25,6 +26,7 @@ public class StatisticActivity extends AppCompatActivity {
 
     private TextView txt_level, txt_gold,txt_weight, txt_height;
     private SessionPatient sessionPatient;
+    private ProgressDialog progressDialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,11 +41,13 @@ public class StatisticActivity extends AppCompatActivity {
         txt_weight =(TextView) findViewById(R.id.txt_weight);
         txt_height =(TextView) findViewById(R.id.txt_height);
 
+        progressDialog = new ProgressDialog(this);
+        progressDialog.setMessage("Please Wait");
          getDataStatistic(hashMap.get(sessionPatient.KEY_ID));
     }
 
     private void getDataStatistic(final String s) {
-
+        progressDialog.show();
         StringRequest stringRequest = new StringRequest(Request.Method.POST, ConnectionDb.SHOW_PATIENT_STATISTIC,
                 new Response.Listener<String>() {
                     @Override
@@ -52,7 +56,7 @@ public class StatisticActivity extends AppCompatActivity {
                         JSONObject jsonObject = new JSONObject(response);
                         JSONArray jsonArray = jsonObject.getJSONArray("patient");
                         JSONObject jsonObject1 = jsonArray.getJSONObject(0);
-
+                        progressDialog.dismiss();
                         txt_gold.setText(String.valueOf(jsonObject1.getDouble("gold")));
                         txt_height.setText(String.valueOf(jsonObject1.getDouble("height")));
                         txt_weight.setText(String.valueOf(jsonObject1.getDouble("weight")));
